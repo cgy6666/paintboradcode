@@ -1,0 +1,3 @@
+D:
+cd paintboard
+python main.py

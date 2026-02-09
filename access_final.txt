@@ -1,0 +1,9 @@
+ACCESS_KEYS = [
+    # 格式：{"uid": 用户ID, "access_key": "访问密钥"}
+    # 可以从洛谷绘版获取 access key ,
+    {"uid": 1048914, "access_key": "5i5Urc5K"},
+    {"uid": 1683526, "access_key": "a5bzYzh9"},
+    {"uid": 1643134, "access_key": "3m4rqk71"},
+    {"uid": 1383625, "access_key": "IXhrvB59"}
+    # 可以继续添加更多 access key，最多建议70个
+]

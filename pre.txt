@@ -1,0 +1,8 @@
+python.exe -m pip install --upgrade pip
+pip install requests
+pip install websocket
+pip install websocket-client
+pip install pillow
+pip install numpy
+pip install asyncio
+D:\python\Scripts\pip.exe install websocket
