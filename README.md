@@ -11,7 +11,7 @@ C++ 运行 local_to_final
 
 调整 config.py 里面的参数（冷却，位置，缩放等）并将 access_final 的内容放到 config.py 对应位置。
 
-运行 main.py。
+运行 自动.cpp ，将会自动画，防止其他人破坏。
 
 还有不理解的或者编译时报错（大概率是 python 或库版本不对）可以问 AI。
 
