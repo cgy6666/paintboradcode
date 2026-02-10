@@ -166,7 +166,7 @@ async def draw_optimized_batch(client):
         
         # 获取token数量和冷却时间
         token_count = client.get_token_count()
-        cool_down_time = ADVANCED_CONFIG["COOL_DOWN_TIME"] / 1000.0-1.005
+        cool_down_time = ADVANCED_CONFIG["COOL_DOWN_TIME"] / 1000.0
         
         print(f"🔑 可用token数量: {token_count}")
         print(f"⏱️  冷却时间: {cool_down_time}秒")
