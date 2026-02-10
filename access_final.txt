@@ -1,9 +1,7 @@
 ACCESS_KEYS = [
-    # ¸ñÊ½£º{"uid": ÓÃ»§ID, "access_key": "·ÃÎÊÃÜÔ¿"}
-    # ¿ÉÒÔ´ÓÂå¹È»æ°æ»ñÈ¡ access key ,
-    {"uid": 1048914, "access_key": "5i5Urc5K"},
-    {"uid": 1683526, "access_key": "a5bzYzh9"},
-    {"uid": 1643134, "access_key": "3m4rqk71"},
-    {"uid": 1383625, "access_key": "IXhrvB59"}
-    # ¿ÉÒÔ¼ÌĞøÌí¼Ó¸ü¶à access key£¬×î¶à½¨Òé70¸ö
+    # æ ¼å¼ï¼š{"uid": ç”¨æˆ·ID, "access_key": "è®¿é—®å¯†é’¥"}
+    # å¯ä»¥ä»æ´›è°·ç»˜ç‰ˆè·å– access key ,
+    
+    # å¯ä»¥ç»§ç»­æ·»åŠ æ›´å¤š access keyï¼Œæœ€å¤šå»ºè®®70ä¸ª
+
 ]
