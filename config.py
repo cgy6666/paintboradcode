@@ -8,9 +8,8 @@
 # =============================================
 ACCESS_KEYS = [
     # 格式：{"uid": 用户ID, "access_key": "访问密钥"}
-    # 可以从洛谷绘版获取 access key ,
-    {"uid": 1048914, "access_key": "6KEKa77Q"},
-    {"uid": 1683526, "access_key": "UpaiUxt6"},
+    # 可以从洛谷绘版获取 access key ,   
+    
     # 可以继续添加更多 access key，最多建议70个
 ]
 
@@ -19,9 +18,9 @@ ACCESS_KEYS = [
 # =============================================
 IMAGE_CONFIG = {
     "PATH": "image.png",  # 图片文件路径
-    "START_X": 520,     # X坐标 (0-999)
-    "START_Y": 320,     # Y坐标 (0-599)
-    "SCALE": 0.3,       # 缩放比例
+    "START_X": 0,     # X坐标 (0-999)
+    "START_Y": 0,     # Y坐标 (0-599)
+    "SCALE": 1.0,       # 缩放比例
     "MAX_CONCURRENT_BATCHES": 3
 }
 
